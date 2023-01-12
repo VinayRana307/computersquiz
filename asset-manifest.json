@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/computersquiz/static/css/main.94821b03.chunk.css",
+    "main.js": "/computersquiz/static/js/main.0f0f5dab.chunk.js",
+    "main.js.map": "/computersquiz/static/js/main.0f0f5dab.chunk.js.map",
+    "runtime-main.js": "/computersquiz/static/js/runtime-main.510e19c0.js",
+    "runtime-main.js.map": "/computersquiz/static/js/runtime-main.510e19c0.js.map",
+    "static/js/2.d0150088.chunk.js": "/computersquiz/static/js/2.d0150088.chunk.js",
+    "static/js/2.d0150088.chunk.js.map": "/computersquiz/static/js/2.d0150088.chunk.js.map",
+    "index.html": "/computersquiz/index.html",
+    "static/css/main.94821b03.chunk.css.map": "/computersquiz/static/css/main.94821b03.chunk.css.map",
+    "static/js/2.d0150088.chunk.js.LICENSE.txt": "/computersquiz/static/js/2.d0150088.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/computersquiz/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.510e19c0.js",
+    "static/js/2.d0150088.chunk.js",
+    "static/css/main.94821b03.chunk.css",
+    "static/js/main.0f0f5dab.chunk.js"
+  ]
+}
