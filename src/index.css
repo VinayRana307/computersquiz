@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.Questions{
+  text-align: left;
+  margin: 0% 0% 0% 5%;
+}
+h1{
+  color:purple;
+}
+.answer{
+  display: contents;
+  color:red;
+}
+.intro{
+  font-size: 20px;
+  margin:4px 0px 0px 0px;
+}
+#vinay{
+  color:blue;
+}
+#amit{
+  color:magenta;
+}
