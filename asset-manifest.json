@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/computersquiz/static/css/main.03c5e4da.chunk.css",
-    "main.js": "/computersquiz/static/js/main.591bf62d.chunk.js",
-    "main.js.map": "/computersquiz/static/js/main.591bf62d.chunk.js.map",
+    "main.js": "/computersquiz/static/js/main.2472f028.chunk.js",
+    "main.js.map": "/computersquiz/static/js/main.2472f028.chunk.js.map",
     "runtime-main.js": "/computersquiz/static/js/runtime-main.510e19c0.js",
     "runtime-main.js.map": "/computersquiz/static/js/runtime-main.510e19c0.js.map",
     "static/css/2.89e45307.chunk.css": "/computersquiz/static/css/2.89e45307.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.89e45307.chunk.css",
     "static/js/2.34419d29.chunk.js",
     "static/css/main.03c5e4da.chunk.css",
-    "static/js/main.591bf62d.chunk.js"
+    "static/js/main.2472f028.chunk.js"
   ]
 }
