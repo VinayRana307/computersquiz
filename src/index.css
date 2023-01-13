@@ -11,24 +11,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-.Questions{
-  text-align: left;
-  margin: 0% 0% 0% 5%;
-}
-h1{
-  color:purple;
-}
-.answer{
-  display: contents;
-  color:red;
-}
-.intro{
-  font-size: 20px;
-  margin:4px 0px 0px 0px;
-}
-#vinay{
-  color:blue;
-}
-#amit{
-  color:magenta;
-}
